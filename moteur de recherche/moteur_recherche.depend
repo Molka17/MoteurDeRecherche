@@ -1,0 +1,155 @@
+# depslib dependency file v1.0
+1652377634 source:c:\users\user\onedrive\bureau\c++\moteur_recherche\analyseur.cpp
+	"analyseur.h"
+	<vector>
+	<map>
+	<algorithm>
+	<bits/stdc++.h>
+	<unordered_map>
+	<utility>
+	<vector>
+	<list>
+	<map>
+	<set>
+
+1652278381 c:\users\user\onedrive\bureau\c++\moteur_recherche\analyseur.h
+	<iostream>
+	<vector>
+
+1652707249 source:c:\users\user\onedrive\bureau\c++\moteur_recherche\index.cpp
+	"index.h"
+	<map>
+	"analyseur.h"
+	<bits/stdc++.h>
+
+1652552621 c:\users\user\onedrive\bureau\c++\moteur_recherche\index.h
+	<iostream>
+	<vector>
+	<map>
+	<iterator>
+	<stdio.h>
+	"analyseur.h"
+	<unordered_map>
+
+1652706576 source:c:\users\user\onedrive\bureau\c++\moteur_recherche\main.cpp
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<map>
+	<iterator>
+	<sstream>
+	<cstring>
+	<stdio.h>
+	<iostream>
+	<vector>
+	"analyseur.h"
+	"moteur.h"
+	"nettoyeur.h"
+	"lecteur.h"
+	"index.h"
+	"ordonnaceur.h"
+	<algorithm>
+	<bits/stdc++.h>
+	<chrono>
+
+1652565423 source:c:\users\user\onedrive\bureau\c++\moteur_recherche\nettoyeur.cpp
+	<iostream>
+	"nettoyeur.h"
+	<cstring>
+	<bits/stdc++.h>
+
+1652544430 c:\users\user\onedrive\bureau\c++\moteur_recherche\nettoyeur.h
+	<iostream>
+	<cstring>
+	<ctype.h>
+	<cctype>
+	<algorithm>
+	<vector>
+	<chrono>
+
+1652704953 source:c:\users\user\onedrive\bureau\c++\moteur_recherche\ordonnaceur.cpp
+	<iostream>
+	<vector>
+	<algorithm>
+	"analyseur.h"
+	"ordonnaceur.h"
+	"index.h"
+	<iostream>
+	<vector>
+	<algorithm>
+
+1652644401 source:c:\users\user\onedrive\bureau\c++\moteur_recherche\moteur.cpp
+	"moteur.h"
+	"nettoyeur.h"
+	"lecteur.h"
+	"analyseur.h"
+	"index.h"
+	"ordonnaceur.h"
+	<iostream>
+	<vector>
+	<algorithm>
+	<bits/stdc++.h>
+	<iostream>
+	<iostream>
+	<fstream>
+
+1652707285 c:\users\user\onedrive\bureau\c++\moteur_recherche\moteur.h
+	<vector>
+	<iostream>
+	<vector>
+	"ordonnaceur.h"
+	<algorithm>
+	<bits/stdc++.h>
+	"index.h"
+	"lecteur.h"
+	"analyseur.h"
+	"nettoyeur.h"
+
+1652545888 c:\users\user\onedrive\bureau\c++\moteur_recherche\lecteur.h
+	<filesystem>
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	<iterator>
+	<sstream>
+	<cstring>
+	<filesystem>
+	<fstream>
+	<vector>
+	<string>
+	<filesystem>
+	<iostream>
+	<dirent.h>
+	<sys/types.h>
+	<vector>
+
+1652491748 source:c:\users\user\onedrive\bureau\c++\moteur_recherche\lecteur.cpp
+	<iostream>
+	<vector>
+	<string>
+	<fstream>
+	<map>
+	<iterator>
+	<sstream>
+	<cstring>
+	"lecteur.h"
+
+1652547611 c:\users\user\onedrive\bureau\c++\moteur_recherche\ordonnaceur.h
+	"index.h"
+	<iostream>
+	<vector>
+	<stdlib.h>
+	<string>
+	<fstream>
+	<map>
+	<iterator>
+	<sstream>
+	<cstring>
+	<stdio.h>
+	<dirent.h>
+	"analyseur.h"
+
